@@ -15,6 +15,6 @@
   <hr>
   <div>🔭 Desenvolvimento Web</div>
   <div>🌱 Banco de Dados</div>
-  <div>📫 Email para contato: murilosant976@gmail.com</div>
+  <div>📫 Email: murilosant976@gmail.com</div>
  
 -->
