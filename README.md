@@ -10,7 +10,7 @@
   </div>
   <hr>
   <div>🔭 MachineLearning</div>
-  <div>🌱 Análise de dadosdiv>
+  <div>🌱 Análise de dados </div>
   <div>📫 Email: murilosant976@gmail.com</div>
  
 -->
