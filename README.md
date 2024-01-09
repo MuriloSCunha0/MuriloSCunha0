@@ -9,8 +9,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   <hr>
-  <div>🔭 Desenvolvimento Web</div>
-  <div>🌱 Banco de Dados</div>
+  <div>🔭 MachineLearning</div>
+  <div>🌱 Análise de dadosdiv>
   <div>📫 Email: murilosant976@gmail.com</div>
  
 -->
